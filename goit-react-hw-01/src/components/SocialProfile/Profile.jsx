@@ -1,7 +1,8 @@
+/*
+import  "./userData.json";
+const userData = JSON.parse(userData);
 
-//import  "./userData.json";
-//const dlist = JSON.parse(userData);
-
+  */
 
 import Prof from "./SocialProfile/Prof";
 import Status from "./SocialProfile/Status";

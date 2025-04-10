@@ -1,8 +1,9 @@
-import "./SocialProfile/Prof"
-import  "./SocialProfile/Status"
+
+import "./SocialProfile/Prof";
+import "./SocialProfile/Status";
 
 /*
-
+-----
 import Stats2 from "./Friends/stats2";
 
 import  Tables from "./TransactionHistory/Tables";
