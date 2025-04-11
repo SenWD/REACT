@@ -7,7 +7,7 @@ import  Status from "./SocialProfile/Status";
 
 
 
-import Stats2 from "./Friends/stats2";
+import Stats2 from "./Friends/Stats2";
 
 import  Tables from "./TransactionHistory/Tables";
 
