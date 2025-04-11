@@ -1,7 +1,9 @@
 
 
-import Prof from "./SocialProfile/Prof";
-import Status from "./SocialProfile/Status";
+
+
+import  Prof from "./SocialProfile/Prof";
+import  Status from "./SocialProfile/Status";
 
 
 
@@ -106,7 +108,6 @@ const  Profile = ({dlist}) => {
     )
 
 }
-
 
 
 
